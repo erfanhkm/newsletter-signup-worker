@@ -1,0 +1,5 @@
+name = "newsletter-signup"
+main = "worker.js"
+compatibility_date = "2026-10-19"
+# Deployed via Cloudflare Workers Builds from GitHub
+# Secrets (BUTTONDOWN_API_KEY, TURNSTILE_SECRET_KEY) are set in the Cloudflare dashboard and persist across deploys.
